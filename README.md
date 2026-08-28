@@ -15,7 +15,6 @@ Former Software Developer Intern at [Bharat Forge Ltd.](https://www.bharatforge.
 ## 🌐 Connect with me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pujarisakshi25@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SakshiPujari) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cookwithmeon02) 
 
 # 📊 GitHub Stats:
 ![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiPujarii&show_icons=true&theme=radical)<br/>
@@ -44,6 +43,6 @@ Former Software Developer Intern at [Bharat Forge Ltd.](https://www.bharatforge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio]
 
 🚀 **Let's connect & build something amazing!**
