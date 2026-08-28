@@ -1,7 +1,7 @@
 # Hi there! 🎀༘⋆ I'm [Sakshi Pujari](https://github.com/SakshiPujarii)˚˖🪞✧˚.
 
 # 
-Computer Science Graduate Actively Seeking For(Software Developer Role)
+Software Engineer at Cognizant Technologies
 
 Former Software Developer Intern at [Caterpillar, Inc.](https://www.caterpillar.com/)(Feb-2024 to July-2024)
 
